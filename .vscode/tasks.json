@@ -1,0 +1,19 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "PatternGuard: Install dependencies",
+      "type": "shell",
+      "command": "pnpm.cmd",
+      "args": ["install", "--frozen-lockfile"],
+      "problemMatcher": []
+    },
+    {
+      "label": "PatternGuard: Start app",
+      "type": "shell",
+      "command": "pnpm.cmd",
+      "args": ["dev"],
+      "problemMatcher": []
+    }
+  ]
+}
