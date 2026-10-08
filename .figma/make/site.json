@@ -1,0 +1,10 @@
+{
+  "description": "Facilitates textile image analysis and restoration with detailed audits and educational guides, supporting students and educators in Filipino textile arts.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
